@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\acer\source\repos\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection.h(41,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection.h(78,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection.h(129,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection.h(131,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection\ConvexHull.h(124,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection\ConvexHull.h(228,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection\ConvexHull.h(246,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection\ConvexHull.h(255,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection\ConvexHull.h(274,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection\ConvexHull.h(293,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection\ConvexHull.h(430,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection\ConvexHull.h(438,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection\ConvexHull.h(498,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection\ConvexHull.h(506,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection\ConvexHull.h(733,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexPolygonIntersectionDetection\ConvexPolygonIntersectionDetection\ConvexHull.h(749,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  ConvexPolygonIntersectionDetection.vcxproj -> C:\Users\acer\source\repos\ConvexPolygonIntersectionDetection\x64\Debug\ConvexPolygonIntersectionDetection.exe
